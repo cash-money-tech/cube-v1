@@ -1,0 +1,21 @@
+code for the cube is here it is my first project i did with python hope you all enjoy
+
+def draw_3d_cube():
+    # Top face
+    print("     +-------+")
+    print("    /       /|")
+    print("   /       / |")
+    print("  +-------+  |")
+
+    # Side faces
+    print("  |       |  |")
+    print("  |       |  +")
+    print("  |       | /")
+    print("  |       |/")
+
+    # Bottom face
+    print("  +-------+")
+
+
+# Call the function to draw the cube
+draw_3d_cube()
